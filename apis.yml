@@ -1,0 +1,32 @@
+aid: front-accounting-apis
+name: Front Accounting APIs
+description: "Front accounting is multilingual and multicurrency software for small businesses"
+url: https://frontaccounting.com/fawiki/index.php?n=Devel.SimpleAPIModule
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Finance"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Finance
+  - Public APIs
+apis:
+  - name: Front Accounting APIs
+    description: "Front accounting is multilingual and multicurrency software for small businesses"
+    humanURL: https://frontaccounting.com/fawiki/index.php?n=Devel.SimpleAPIModule
+    baseURL: https://frontaccounting.com/fawiki/index.php?n=Devel.SimpleAPIModule
+    tags:
+      - Finance
+    properties:
+      - type: Documentation
+        url: https://frontaccounting.com/fawiki/index.php?n=Devel.SimpleAPIModule
+common:
+  - type: Website
+    url: https://frontaccounting.com/fawiki/index.php?n=Devel.SimpleAPIModule
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
