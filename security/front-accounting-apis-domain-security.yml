@@ -1,0 +1,15 @@
+generated: '2026-07-11'
+method: probed
+source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
+hosts:
+- host: frontaccounting.com
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Aug 13 23:45:19 2026 GMT
+  hsts: false
+domains:
+- domain: frontaccounting.com
+  dnssec: false
+  caa: []
+  spf: true
+  dmarc: false
