@@ -39,7 +39,6 @@ apis:
   - name: Front Accounting APIs
     description: "Front accounting is multilingual and multicurrency software for small businesses"
     humanURL: https://frontaccounting.com/fawiki/index.php?n=Devel.SimpleAPIModule
-    baseURL: https://frontaccounting.com/fawiki/index.php?n=Devel.SimpleAPIModule
     tags:
       - Finance
     properties:
